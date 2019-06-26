@@ -18,7 +18,7 @@ pool:
 variables:
   buildConfiguration: 'Release'
   version: '0.2.1'
-  repository: "wk-j/azure-release"
+  repository: "wk-j/azure-java"
 
 steps:
 
